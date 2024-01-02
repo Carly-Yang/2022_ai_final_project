@@ -1,4 +1,3 @@
-![image](https://github.com/Carly-Yang/2022_ai_final_project_auto/assets/110595051/924679f1-09e8-4982-a2e5-90571de90576)# 2022_ai_final_project
 final_project
 
 data visual
